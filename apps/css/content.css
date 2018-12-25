@@ -1,0 +1,142 @@
+.home .home-content {
+	width: 664px;
+	float: left;
+	margin-right: 5px;
+	padding-right: 15px;
+}
+	.home .home-content .content {
+	margin-bottom: 25px;
+}
+	.home .home-content .content h3{
+		color:#555;
+	}
+	.home .home-content .content h3 a{
+	display: block;
+    font-size: 20px;
+    text-decoration: none;
+    border-bottom: 1px dotted #555;
+    color: #555;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+	}
+	.home .home-content .content p {
+	font-size: 17px;
+	text-align: justify;
+	color: #555;
+	padding-bottom: 15px;
+}
+	.home .home-content .content .read-more {
+	float: right;
+}
+	.home .home-content .content .read-more a {
+	text-decoration: none;
+	padding: 5px 10px;
+	border: 1px solid #5d3e3e;
+	background: #fff;
+	font-size: 18px;
+	color: #555;
+	transition:all .5s;
+}
+.home .home-content .content .read-more a:hover {
+	background: #f1f1f1;
+	color: #333;
+}
+
+	.home{}
+	.home .sidebar {
+	width: 280px;
+	float: right;
+}
+
+   .home .sidebar .catagory {
+	margin: 0px;
+	margin-bottom: 25px;
+}
+
+ .home .sidebar .catagory h2 {
+	font-size: 25px;
+	display: inline-block;
+	background: #D1D5DA;
+	float: right;
+	padding: 5px 90px;
+	color: #120101;
+	margin-bottom: 6px;
+}
+	.home .sidebar .catagory ul {
+	list-style: none;
+}
+	.home .sidebar .catagory ul li{}
+		.home .sidebar .catagory ul li a {
+		text-decoration: none;
+		font-size: 20px;
+		background: #007BFF;
+		display: block;
+		margin-bottom: 1px;
+		color: #fff;
+		text-align: center;
+		padding: 5px;
+	}
+
+
+	.home .sidebar .letest {
+		margin: 0px;
+		margin-bottom: 25px;
+	}
+	.home .sidebar .letest h2 {
+		font-size: 25px;
+		display: inline-block;
+		background: #D1D5DA;
+		float: right;
+		padding: 5px 81px;
+		color: #120101;
+		margin-bottom: 6px;
+	}
+		.home .sidebar .letest ul {
+		list-style: none;
+	}
+		.home .sidebar .letest ul li{}
+			.home .sidebar .letest ul li a {
+			text-decoration: none;
+			font-size: 20px;
+			background: #007BFF;
+			display: block;
+			margin-bottom: 1px;
+			color: #fff;
+			text-align: center;
+			padding: 5px;
+		}
+		.home .sidebar .catagory ul li a:hover {
+	     background: #009cff;
+	     transition:all .25s;
+        }
+		.home .sidebar .letest ul li a:hover{
+			background: #009cff;
+			transition:all .25s;
+		}
+ .details-content {
+	width: 666px;
+	float: left;
+}
+
+.details-content .content h3 {
+	font-size: 25px;
+	color: #555;
+}
+.details-content .content .cat {
+	color: #555;
+	font-size: 21px;
+	border-bottom: 1px dashed #555;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+}
+.details-content .content .cat a {
+	color: #555;
+	font-size: 21px;
+	text-decoration: none;
+}
+.details-content .content p {
+	font-size: 17px;
+	color: #555;
+	text-align: justify;
+	line-height: 1.5;
+}
